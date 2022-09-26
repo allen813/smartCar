@@ -31,4 +31,8 @@ Figure 6. Driver performing the nighttime contrast enhancement application where
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
+<<<<<<< HEAD
 電子一乙 111360212 廖紘揚 master
+=======
+電子一乙 111360212 廖紘揚
+>>>>>>> develop
